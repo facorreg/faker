@@ -6,7 +6,7 @@
 #   x=$(( $x + 21 ))
 # done
 
-for i in `seq 1 5`;
+for i in `seq 1 20`;
 do
   echo $i
   node index.js
